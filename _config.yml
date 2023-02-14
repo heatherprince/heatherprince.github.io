@@ -1,6 +1,6 @@
 # main text of home
 name: Heather Prince
-bio: Cosmology | Yoga | Huskies
+bio: Astrophysics postdoctoral research at Rutgers University
 
 # twitter summary info
 description: Heather Prince's website
@@ -39,7 +39,7 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: heatherprince1
 # youtube: myyoutube
 # spotify: myspotify
 github: heatherprince
@@ -56,7 +56,7 @@ email: heatherp@princeton.edu
 authors:
     heatherprince:
         name: Heather Prince
-        bio: Cosmology graduate student at Princeton University
+        bio: Astrophysics postdoctoral researcher at Princeton University
         external-image: false
         picture: assets/images/profile.jpg
 #        twitter: johndoe
